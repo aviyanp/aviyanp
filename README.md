@@ -1,5 +1,5 @@
 ## Heya!
 
 I'm Aviyan:
-- I'm currently working on some Old Web projects.
-- I'm also currently learning how to write code faster for Codeforces, USACO, and other competitive programming competitions.
+- I'm currently working on an open problem- arXiv preprint pending!
+- A lot of my bigger projects are privated, so these are just basic projects/things I've done/worked on in the past.
